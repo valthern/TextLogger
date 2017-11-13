@@ -1,0 +1,17 @@
+C:\Users\Omar\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\bin\Release\MiLogger.dll
+C:\Users\Omar\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\bin\Release\MiLogger.pdb
+C:\Users\Omar\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\obj\Release\MiLogger.dll
+C:\Users\Omar\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\obj\Release\MiLogger.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\bin\Release\MiLogger.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\bin\Release\MiLogger.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\obj\Release\MiLogger.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\obj\Release\MiLogger.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\bin\Release\MiLogger.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\bin\Release\MiLogger.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\obj\Release\MiLogger.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\MiLogger\MiLogger\obj\Release\MiLogger.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\MiLogger\MiLogger\bin\Release\MiLogger.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\MiLogger\MiLogger\bin\Release\MiLogger.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\MiLogger\MiLogger\obj\Release\MiLogger.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\MiLogger\MiLogger\obj\Release\MiLogger.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\MiLogger\MiLogger\obj\Release\MiLogger.csprojResolveAssemblyReference.cache
