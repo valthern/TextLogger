@@ -16,21 +16,11 @@ namespace TextLogger
         public static void Logg(string mensaje, bool append, string nombrePrograma = "")
         {
             DateTime ahorita = DateTime.Now;
-            string dir;
             string ruta;
 
-            //foreach (DictionaryEntry de in Environment.GetEnvironmentVariables())
-            //{
-            //    if (de.Key.ToString() == "SystemDrive")
-            //    {
-            //        dir = de.Value + @"\_Logs";
-            //        break;
-            //    }
-            //}
-            dir = Environment.GetEnvironmentVariable("SystemDrive") + @"\_Logs";
-
+            string dir = Environment.GetEnvironmentVariable("SystemDrive") + @"\_Logs";
             string archivo = "Logs_" + nombrePrograma + ".txt";
-
+            
             if (string.IsNullOrEmpty(dir))
             {
                 ruta = Path.Combine(dir, archivo);
@@ -56,7 +46,7 @@ namespace TextLogger
         /// </summary>
         /// <param name="mensaje">Mensaje para registrar en el log.</param>
         /// <param name="prog">Nombre del programa que utiliza el Logger</param>
-        public static void Logg(string mensaje, string nombrePrograma)
+        public static void Logg(string mensaje, string nombrePrograma = "")
         {
             Logg(mensaje, true, nombrePrograma);
         }
