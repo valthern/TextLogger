@@ -1,0 +1,16 @@
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TextLogger\TextLogger\bin\Debug\TextLogger.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TextLogger\TextLogger\bin\Debug\TextLogger.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TextLogger\TextLogger\obj\Debug\TextLogger.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TextLogger\TextLogger\obj\Debug\TextLogger.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TextLogger\TextLogger\obj\Debug\TextLogger.pdb
+C:\Users\desarrollo\Documents\Visual Studio 2012\Projects\TextLogger\TextLogger\bin\Debug\TextLogger.dll
+C:\Users\desarrollo\Documents\Visual Studio 2012\Projects\TextLogger\TextLogger\bin\Debug\TextLogger.pdb
+C:\Users\desarrollo\Documents\Visual Studio 2012\Projects\TextLogger\TextLogger\obj\Debug\TextLogger.csprojResolveAssemblyReference.cache
+C:\Users\desarrollo\Documents\Visual Studio 2012\Projects\TextLogger\TextLogger\obj\Debug\TextLogger.dll
+C:\Users\desarrollo\Documents\Visual Studio 2012\Projects\TextLogger\TextLogger\obj\Debug\TextLogger.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2017\Projects\TextLogger\TextLogger\bin\Debug\TextLogger.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2017\Projects\TextLogger\TextLogger\bin\Debug\TextLogger.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2017\Projects\TextLogger\TextLogger\obj\Debug\TextLogger.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2017\Projects\TextLogger\TextLogger\obj\Debug\TextLogger.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2017\Projects\TextLogger\TextLogger\obj\Debug\TextLogger.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2017\Projects\TextLogger\TextLogger\obj\Debug\TextLogger.pdb
